@@ -13,3 +13,11 @@ body {
 .container {
     display: block;
 }
+
+.nav {
+    float: right;
+    margin: 7px 15px 0 0;
+}
+
+ul,
+menu,
