@@ -1,0 +1,15 @@
+html {
+    font-family: 'Arial';
+    color: black;
+    font-weight: 200;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+body {
+    margin: 0;
+}
+
+.container {
+    display: block;
+}
