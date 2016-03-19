@@ -78,10 +78,6 @@ li img {
     margin-right: auto;
     padding-left: 5%;
     padding-right: 5%;
-    background: url(../images/mic.png);
-    background-position: right;
-    background-repeat: no-repeat;
-    background-size: 24px 24px;
 }
 
 
@@ -103,12 +99,36 @@ li img {
     padding-bottom: 8px;
 }
 
-.mic {
-    max-width: 29px;
-    max-height: 36px;
+/*footer styling */
+
+.footer {
+    background-color: #f2f2f2;
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    border-top: 1px solid #e4e4e4;
 }
 
-.button
-{
+.footer ul {
+    margin: 0;
+    vertical-align: middle;
+    line-height: 20px;
+}
 
+.footer ul li {
+    display: inline-block;
+}
+
+#left-footer {
+    float: left;
+}
+
+#right-footer {
+    float: right;
+}
+
+.footer li {
+    padding: 10px 10px 10px 0;
 }
