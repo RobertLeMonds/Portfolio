@@ -1,0 +1,10 @@
+{
+  "name": "googlehome",
+  "version": "1.0.0",
+  "description": "Mockup of google homepage",
+  "main": "index.html",
+  "author": "Robert Le Monds",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
